@@ -207,11 +207,10 @@ const Wrapper = styled.div`
     margin-bottom: 0.5rem;
     font-size: 0.8rem;
     padding: 0.5rem;
-    background-color: rgba(0, 0, 0, 0.2);
+    background-color: rgba(0, 0, 0, 0.7);
     border-radius: 0.3rem;
 
     p {
-      background-color: #6b7280;
       color: white;
       padding: 0 0.2rem;
       border-radius: 0.2rem;
