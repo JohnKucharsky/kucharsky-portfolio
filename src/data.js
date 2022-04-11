@@ -73,17 +73,9 @@ export const data = [
     github: "https://github.com/JohnKucharsky/FinnFlare",
     color: false,
   },
+
   {
     id: 7,
-    title: "CSS Grid",
-    img: ["images/grid/2022-03-22 (13).png", "images/grid/2022-03-22 (14).png"],
-    features: ["HTML", "CSS", "Grid"],
-    url: "https://inspiring-sammet-0cfd2b.netlify.app/",
-    github: "https://github.com/JohnKucharsky/valid-input",
-    color: false,
-  },
-  {
-    id: 8,
     title: "Admin Panel 2",
     img: ["images/lama-admin-main/2022-03-22 (44).png"],
     features: ["React", "CSS", "Recharts"],
@@ -92,7 +84,7 @@ export const data = [
     color: false,
   },
   {
-    id: 9,
+    id: 8,
     title: "Modal",
     img: ["images/modal-lawyer/2022-03-22 (31).png"],
     features: ["React", "CSS", "Hooks"],
@@ -101,7 +93,7 @@ export const data = [
     color: false,
   },
   {
-    id: 10,
+    id: 9,
     title: "Router V6",
     img: [
       "images/ninja-router/2022-03-22 (8).png",
@@ -115,7 +107,7 @@ export const data = [
     color: false,
   },
   {
-    id: 11,
+    id: 10,
     title: "Redux Shopping Cart",
     img: ["images/redux-ind-fire/2022-03-22 (23).png"],
     features: ["React", "Redux", "Firebase"],
@@ -124,7 +116,7 @@ export const data = [
     color: false,
   },
   {
-    id: 12,
+    id: 11,
     title: "Typescript ToDo List",
     img: ["images/todo-typescript/2022-03-22 (36).png"],
     features: ["React", "Typescript"],
@@ -133,7 +125,7 @@ export const data = [
     color: false,
   },
   {
-    id: 13,
+    id: 12,
     title: "Breaking Bad",
     img: ["images/traversy-bb/2022-03-22 (6).png"],
     features: ["React", "API", "Search"],
@@ -142,7 +134,7 @@ export const data = [
     color: true,
   },
   {
-    id: 14,
+    id: 13,
     title: "Typescript Shopping Cart",
     img: [
       "images/type-shoppingcart/2022-03-22 (28).png",
@@ -154,12 +146,21 @@ export const data = [
     color: false,
   },
   {
-    id: 15,
+    id: 14,
     title: "Movie Watchlist",
     img: ["images/watchlist-movie/2022-03-22 (21).png"],
     features: ["React", "ContextAPI", "TailwindCSS", "useReducer", "MovieAPI"],
     url: "https://watchlist-movies-sigma.vercel.app/",
     github: "https://github.com/JohnKucharsky/watchlist-movies",
+    color: false,
+  },
+  {
+    id: 15,
+    title: "CSS Grid",
+    img: ["images/grid/2022-03-22 (13).png", "images/grid/2022-03-22 (14).png"],
+    features: ["HTML", "CSS", "Grid"],
+    url: "https://inspiring-sammet-0cfd2b.netlify.app/",
+    github: "https://github.com/JohnKucharsky/valid-input",
     color: false,
   },
   {
@@ -177,6 +178,33 @@ export const data = [
   },
   {
     id: 17,
+    title: "Quiz Game",
+    img: ["images/quiz-game/2022-04-11 (11).png"],
+    features: ["React", "Typescript", "Styled Components", "Api"],
+    url: "https://quiz-game-typescript.vercel.app/",
+    github: "https://github.com/JohnKucharsky/quiz-game-typescript",
+    color: true,
+  },
+  {
+    id: 18,
+    title: "Magic Memory",
+    img: ["images/magic-memory/2022-04-11 (10).png"],
+    features: ["React", "Javascript"],
+    url: "https://magic-memory-zeta.vercel.app/",
+    github: "https://github.com/JohnKucharsky/magic-memory",
+    color: true,
+  },
+  {
+    id: 19,
+    title: "Tables",
+    img: ["images/tables/2022-04-11 (12).png"],
+    features: ["React", "Typescript", "SASS"],
+    url: "https://random-tables-sass-ts.vercel.app/",
+    github: "https://github.com/JohnKucharsky/random-tables-sass-ts",
+    color: true,
+  },
+  {
+    id: 20,
     title: "Recipe Spoonacular",
     img: [
       "images/spoonacular/2022-04-11 (13).png",
@@ -198,7 +226,7 @@ export const data = [
     color: false,
   },
   {
-    id: 18,
+    id: 21,
     title: "Paintings Gallery",
     img: [
       "images/paintings/2022-04-11 (1).png",
@@ -211,7 +239,7 @@ export const data = [
     color: false,
   },
   {
-    id: 19,
+    id: 22,
     title: "Exceed",
     img: [
       "images/exceed/2022-04-11 (4).png",
