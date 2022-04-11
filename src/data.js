@@ -180,8 +180,8 @@ export const data = [
     title: "Recipe Spoonacular",
     img: [
       "images/spoonacular/2022-04-11 (13).png",
-      "images/deved-spoonacular/2022-04-11 (14).png",
-      "images/deved-spoonacular/2022-04-11 (15).png",
+      "images/spoonacular/2022-04-11 (14).png",
+      "images/spoonacular/2022-04-11 (15).png",
     ],
     features: [
       "React",
