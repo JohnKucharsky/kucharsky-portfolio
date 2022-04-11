@@ -12,7 +12,7 @@ const AboutMe = ({ language }) => {
         <ul>
           <li>{language ? "John Kucharsky" : "Кучарский Иван"}</li>
           <li>{language ? "Web Developer" : "Разработчик Сайтов"}</li>
-          <li>React Redux Javascript HTML CSS</li>
+          <li>React Redux Javascript Typescript SASS HTML CSS</li>
           <li>
             <AiOutlineWhatsApp />{" "}
             <a href="https://api.whatsapp.com/send?phone=+79251805132">
