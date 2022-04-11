@@ -33,29 +33,9 @@ export const data = [
     github: "https://github.com/JohnKucharsky/calcredux",
     color: false,
   },
+
   {
     id: 4,
-    title: "Recipe Spoonacular",
-    img: [
-      "images/deved-spoonacular/2022-03-22 (25).png",
-      "images/deved-spoonacular/2022-03-22 (26).png",
-      "images/deved-spoonacular/2022-03-22 (27).png",
-    ],
-    features: [
-      "React",
-      "TailwindCSS",
-      "API",
-      "Search",
-      "ReactRouter",
-      "SwiperJS",
-      "FramerMotion",
-    ],
-    url: "https://deved-spoonacular.vercel.app/",
-    github: "https://github.com/JohnKucharsky/Deved-spoonacular",
-    color: false,
-  },
-  {
-    id: 5,
     title: "Portfolio",
     img: [
       "images/egator-portfolio/2022-03-22 (37).png",
@@ -71,7 +51,7 @@ export const data = [
     color: true,
   },
   {
-    id: 6,
+    id: 5,
     title: "Finn Flare",
     img: [
       "images/finn-flare/2022-03-22 (32).png",
@@ -85,7 +65,7 @@ export const data = [
     color: true,
   },
   {
-    id: 7,
+    id: 6,
     title: "Pixabay API",
     img: ["images/gallery/2022-03-22 (24).png"],
     features: ["React", "API", "TailwindCSS"],
@@ -94,7 +74,7 @@ export const data = [
     color: false,
   },
   {
-    id: 8,
+    id: 7,
     title: "CSS Grid",
     img: ["images/grid/2022-03-22 (13).png", "images/grid/2022-03-22 (14).png"],
     features: ["HTML", "CSS", "Grid"],
@@ -103,7 +83,7 @@ export const data = [
     color: false,
   },
   {
-    id: 9,
+    id: 8,
     title: "Admin Panel 2",
     img: ["images/lama-admin-main/2022-03-22 (44).png"],
     features: ["React", "CSS", "Recharts"],
@@ -112,7 +92,7 @@ export const data = [
     color: false,
   },
   {
-    id: 10,
+    id: 9,
     title: "Modal",
     img: ["images/modal-lawyer/2022-03-22 (31).png"],
     features: ["React", "CSS", "Hooks"],
@@ -121,7 +101,7 @@ export const data = [
     color: false,
   },
   {
-    id: 11,
+    id: 10,
     title: "Router V6",
     img: [
       "images/ninja-router/2022-03-22 (8).png",
@@ -135,7 +115,7 @@ export const data = [
     color: false,
   },
   {
-    id: 12,
+    id: 11,
     title: "Redux Shopping Cart",
     img: ["images/redux-ind-fire/2022-03-22 (23).png"],
     features: ["React", "Redux", "Firebase"],
@@ -144,7 +124,7 @@ export const data = [
     color: false,
   },
   {
-    id: 13,
+    id: 12,
     title: "Typescript ToDo List",
     img: ["images/todo-typescript/2022-03-22 (36).png"],
     features: ["React", "Typescript"],
@@ -153,7 +133,7 @@ export const data = [
     color: false,
   },
   {
-    id: 14,
+    id: 13,
     title: "Breaking Bad",
     img: ["images/traversy-bb/2022-03-22 (6).png"],
     features: ["React", "API", "Search"],
@@ -162,7 +142,7 @@ export const data = [
     color: true,
   },
   {
-    id: 15,
+    id: 14,
     title: "Typescript Shopping Cart",
     img: [
       "images/type-shoppingcart/2022-03-22 (28).png",
@@ -174,7 +154,7 @@ export const data = [
     color: false,
   },
   {
-    id: 16,
+    id: 15,
     title: "Movie Watchlist",
     img: ["images/watchlist-movie/2022-03-22 (21).png"],
     features: ["React", "ContextAPI", "TailwindCSS", "useReducer", "MovieAPI"],
@@ -183,7 +163,7 @@ export const data = [
     color: false,
   },
   {
-    id: 17,
+    id: 16,
     title: "Gatsby Blog",
     img: [
       "images/web-warrior/2022-03-22 (18).png",
@@ -194,5 +174,53 @@ export const data = [
     url: "https://wizardly-hermann-0d2e3d.netlify.app/",
     github: "https://github.com/JohnKucharsky/gatsby-starter-hello-world",
     color: true,
+  },
+  {
+    id: 17,
+    title: "Recipe Spoonacular",
+    img: [
+      "images/spoonacular/2022-04-11 (13).png",
+      "images/deved-spoonacular/2022-04-11 (14).png",
+      "images/deved-spoonacular/2022-04-11 (15).png",
+    ],
+    features: [
+      "React",
+      "SASS",
+      "Typescript",
+      "API",
+      "Search",
+      "ReactRouter",
+      "SplideJS",
+      "FramerMotion",
+    ],
+    url: "https://spoonacular-typescript.vercel.app/",
+    github: "https://github.com/JohnKucharsky/spoonacular-typescript",
+    color: false,
+  },
+  {
+    id: 18,
+    title: "Paintings Gallery",
+    img: [
+      "images/paintings/2022-04-11 (1).png",
+      "images/paintings/2022-04-11 (2).png",
+      "images/paintings/2022-04-11.png",
+    ],
+    features: ["React", "Styled Components", "API", "Search"],
+    url: "https://paintings-gallery.vercel.app/",
+    github: "https://github.com/JohnKucharsky/paintings-gallery",
+    color: false,
+  },
+  {
+    id: 19,
+    title: "Exceed",
+    img: [
+      "images/exceed/2022-04-11 (4).png",
+      "images/exceed/2022-04-11 (5).png",
+      "images/exceed/2022-04-11 (3).png",
+    ],
+    features: ["React", "Styled Components", "Mobile Responsive"],
+    url: "https://exceed-theta.vercel.app/",
+    github: "https://github.com/JohnKucharsky/exceed",
+    color: false,
   },
 ];
