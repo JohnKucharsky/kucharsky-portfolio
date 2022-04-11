@@ -157,10 +157,10 @@ export const data = [
   {
     id: 15,
     title: "CSS Grid",
-    img: ["images/grid/2022-03-22 (13).png", "images/grid/2022-03-22 (14).png"],
+    img: ["images/grid/2022-04-11 (6).png"],
     features: ["HTML", "CSS", "Grid"],
-    url: "https://inspiring-sammet-0cfd2b.netlify.app/",
-    github: "https://github.com/JohnKucharsky/valid-input",
+    url: "https://cinet.vercel.app/",
+    github: "https://github.com/JohnKucharsky/Cinet",
     color: false,
   },
   {
@@ -201,7 +201,7 @@ export const data = [
     features: ["React", "Typescript", "SASS"],
     url: "https://random-tables-sass-ts.vercel.app/",
     github: "https://github.com/JohnKucharsky/random-tables-sass-ts",
-    color: true,
+    color: false,
   },
   {
     id: 20,
@@ -236,14 +236,14 @@ export const data = [
     features: ["React", "Styled Components", "API", "Search"],
     url: "https://paintings-gallery.vercel.app/",
     github: "https://github.com/JohnKucharsky/paintings-gallery",
-    color: false,
+    color: true,
   },
   {
     id: 22,
     title: "Exceed",
     img: [
       "images/exceed/2022-04-11 (4).png",
-      "images/exceed/2022-04-11 (5).png",
+
       "images/exceed/2022-04-11 (3).png",
     ],
     features: ["React", "Styled Components", "Mobile Responsive"],
