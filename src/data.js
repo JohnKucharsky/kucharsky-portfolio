@@ -8,30 +8,6 @@ export const data = [
     github: "https://github.com/JohnKucharsky/Cinet",
     color: false,
   },
-  {
-    id: 2,
-    title: "Bootstrap",
-    img: [
-      "images/bootstrap-ninja/2022-03-22 (1).png",
-      "images/bootstrap-ninja/2022-03-22 (2).png",
-      "images/bootstrap-ninja/2022-03-22 (3).png",
-      "images/bootstrap-ninja/2022-03-22 (4).png",
-      "images/bootstrap-ninja/2022-03-22 (5).png",
-    ],
-    features: ["Bootstrap", "HTML", "CSS"],
-    url: "https://bootstrap5-02.vercel.app/",
-    github: "https://github.com/JohnKucharsky/Bootstrap5-02",
-    color: false,
-  },
-  {
-    id: 3,
-    title: "Calculator Modal",
-    img: ["images/calc-redux/2022-03-22 (30).png"],
-    features: ["React", "ReduxToolkit", "Firebase"],
-    url: "https://calcredux-ashen.vercel.app/",
-    github: "https://github.com/JohnKucharsky/calcredux",
-    color: false,
-  },
 
   {
     id: 5,
@@ -94,6 +70,7 @@ export const data = [
     github: "https://github.com/JohnKucharsky/traversy-bb",
     color: true,
   },
+
   {
     id: 13,
     title: "Portfolio",
@@ -109,6 +86,30 @@ export const data = [
     url: "https://egator.vercel.app/",
     github: "https://github.com/JohnKucharsky/egator",
     color: true,
+  },
+  {
+    id: 14,
+    title: "Calculator Modal",
+    img: ["images/calc-redux/2022-03-22 (30).png"],
+    features: ["React", "ReduxToolkit", "Firebase"],
+    url: "https://calcredux-ashen.vercel.app/",
+    github: "https://github.com/JohnKucharsky/calcredux",
+    color: false,
+  },
+  {
+    id: 15,
+    title: "Bootstrap",
+    img: [
+      "images/bootstrap-ninja/2022-03-22 (1).png",
+      "images/bootstrap-ninja/2022-03-22 (2).png",
+      "images/bootstrap-ninja/2022-03-22 (3).png",
+      "images/bootstrap-ninja/2022-03-22 (4).png",
+      "images/bootstrap-ninja/2022-03-22 (5).png",
+    ],
+    features: ["Bootstrap", "HTML", "CSS"],
+    url: "https://bootstrap5-02.vercel.app/",
+    github: "https://github.com/JohnKucharsky/Bootstrap5-02",
+    color: false,
   },
 
   {
