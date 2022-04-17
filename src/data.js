@@ -1,15 +1,5 @@
 export const data = [
   {
-    id: 1,
-    title: "Admin Panel",
-    img: ["images/admin-panel-simple/2022-03-22 (43).png"],
-    features: ["React", "StyledComponents"],
-    url: "https://admin-app-table-simple.vercel.app/",
-    github: "https://github.com/JohnKucharsky/admin-app-table-simple",
-    color: false,
-  },
-
-  {
     id: 2,
     title: "Bootstrap",
     img: [
@@ -50,20 +40,7 @@ export const data = [
     github: "https://github.com/JohnKucharsky/egator",
     color: true,
   },
-  {
-    id: 5,
-    title: "Finn Flare",
-    img: [
-      "images/finn-flare/2022-03-22 (32).png",
-      "images/finn-flare/2022-03-22 (33).png",
-      "images/finn-flare/2022-03-22 (34).png",
-      "images/finn-flare/2022-03-22 (35).png",
-    ],
-    features: ["React", "ReactRouter", "Contentful", "TailwindCSS"],
-    url: "https://finn-flaree.vercel.app/",
-    github: "https://github.com/JohnKucharsky/FinnFlare",
-    color: true,
-  },
+
   {
     id: 6,
     title: "Pixabay API",
@@ -74,15 +51,6 @@ export const data = [
     color: false,
   },
 
-  {
-    id: 7,
-    title: "Admin Panel 2",
-    img: ["images/lama-admin-main/2022-03-22 (44).png"],
-    features: ["React", "CSS", "Recharts"],
-    url: "https://lama-admin-main.vercel.app/",
-    github: "https://github.com/JohnKucharsky/Lama-Admin-main",
-    color: false,
-  },
   {
     id: 8,
     title: "Modal",
@@ -145,15 +113,7 @@ export const data = [
     github: "https://github.com/JohnKucharsky/TypescriptShoppingCart",
     color: false,
   },
-  {
-    id: 14,
-    title: "Movie Watchlist",
-    img: ["images/watchlist-movie/2022-03-22 (21).png"],
-    features: ["React", "ContextAPI", "TailwindCSS", "useReducer", "MovieAPI"],
-    url: "https://watchlist-movies-sigma.vercel.app/",
-    github: "https://github.com/JohnKucharsky/watchlist-movies",
-    color: false,
-  },
+
   {
     id: 15,
     title: "CSS Grid",
