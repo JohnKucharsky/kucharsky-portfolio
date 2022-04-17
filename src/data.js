@@ -1,5 +1,14 @@
 export const data = [
   {
+    id: 1,
+    title: "CSS Grid",
+    img: ["images/grid/2022-04-11 (6).png"],
+    features: ["HTML", "CSS", "Grid"],
+    url: "https://cinet.vercel.app/",
+    github: "https://github.com/JohnKucharsky/Cinet",
+    color: false,
+  },
+  {
     id: 2,
     title: "Bootstrap",
     img: [
@@ -25,20 +34,13 @@ export const data = [
   },
 
   {
-    id: 4,
-    title: "Portfolio",
-    img: [
-      "images/egator-portfolio/2022-03-22 (37).png",
-      "images/egator-portfolio/2022-03-22 (38).png",
-      "images/egator-portfolio/2022-03-22 (39).png",
-      "images/egator-portfolio/2022-03-22 (40).png",
-      "images/egator-portfolio/2022-03-22 (41).png",
-      "images/egator-portfolio/2022-03-22 (42).png",
-    ],
-    features: ["React", "CSS", "Animation"],
-    url: "https://egator.vercel.app/",
-    github: "https://github.com/JohnKucharsky/egator",
-    color: true,
+    id: 5,
+    title: "Modal",
+    img: ["images/modal-lawyer/2022-03-22 (31).png"],
+    features: ["React", "CSS", "Hooks"],
+    url: "https://modal-input.vercel.app/",
+    github: "https://github.com/JohnKucharsky/modal-input",
+    color: false,
   },
 
   {
@@ -51,15 +53,6 @@ export const data = [
     color: false,
   },
 
-  {
-    id: 8,
-    title: "Modal",
-    img: ["images/modal-lawyer/2022-03-22 (31).png"],
-    features: ["React", "CSS", "Hooks"],
-    url: "https://modal-input.vercel.app/",
-    github: "https://github.com/JohnKucharsky/modal-input",
-    color: false,
-  },
   {
     id: 9,
     title: "Router V6",
@@ -103,26 +96,21 @@ export const data = [
   },
   {
     id: 13,
-    title: "Typescript Shopping Cart",
+    title: "Portfolio",
     img: [
-      "images/type-shoppingcart/2022-03-22 (28).png",
-      "images/type-shoppingcart/2022-03-22 (29).png",
+      "images/egator-portfolio/2022-03-22 (37).png",
+      "images/egator-portfolio/2022-03-22 (38).png",
+      "images/egator-portfolio/2022-03-22 (39).png",
+      "images/egator-portfolio/2022-03-22 (40).png",
+      "images/egator-portfolio/2022-03-22 (41).png",
+      "images/egator-portfolio/2022-03-22 (42).png",
     ],
-    features: ["React", "Typiscript", "MaterialUI", "StyledComponents", "API"],
-    url: "https://typescript-shopping-cart-nine.vercel.app/",
-    github: "https://github.com/JohnKucharsky/TypescriptShoppingCart",
-    color: false,
+    features: ["React", "CSS", "Animation"],
+    url: "https://egator.vercel.app/",
+    github: "https://github.com/JohnKucharsky/egator",
+    color: true,
   },
 
-  {
-    id: 15,
-    title: "CSS Grid",
-    img: ["images/grid/2022-04-11 (6).png"],
-    features: ["HTML", "CSS", "Grid"],
-    url: "https://cinet.vercel.app/",
-    github: "https://github.com/JohnKucharsky/Cinet",
-    color: false,
-  },
   {
     id: 16,
     title: "Gatsby Blog",
