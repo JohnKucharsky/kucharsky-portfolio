@@ -73,7 +73,6 @@ const Projects = () => {
             </div>
           </div>
           <div className="card-content">
-            <div className="title">{i.title}</div>
             <div className="links">
               <a href={i.url}>Web</a>
               <a href={i.github}>Github</a>
@@ -156,11 +155,7 @@ const Wrapper = styled.div`
   .card-content {
     padding: 0.2rem 0.5rem;
   }
-  .title {
-    font-size: 1.5rem;
-    margin-bottom: 0.2rem;
-    color: #1f2937;
-  }
+
   .img-container {
     position: relative;
     img {
