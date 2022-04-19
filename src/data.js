@@ -174,7 +174,7 @@ export const data = [
     title: "Tables",
     img: ["images/tables/2022-04-11 (12).png"],
     features: ["React", "Typescript", "SASS"],
-    url: "https://random-tables-sass-ts.vercel.app/",
+    url: "https://sass-ts-versiontwo.vercel.app/",
     github: "https://github.com/JohnKucharsky/random-tables-sass-ts",
     color: false,
   },
