@@ -24,8 +24,8 @@ export const data = [
     title: "Pixabay API",
     img: ["images/gallery/2022-03-22 (24).png"],
     features: ["React", "API", "TailwindCSS"],
-    url: "https://finn-flaree.vercel.app/",
-    github: "https://github.com/JohnKucharsky/FinnFlare",
+    url: "https://pixabay-gallery-psi.vercel.app/",
+    github: "https://github.com/JohnKucharsky/Pixabay-Gallery",
     color: false,
   },
   {
