@@ -28,6 +28,32 @@ export const data = [
     github: "https://github.com/JohnKucharsky/FinnFlare",
     color: false,
   },
+  {
+    id: 7,
+    title: "Paintings Gallery",
+    img: [
+      "images/paintings/2022-04-11 (1).png",
+      "images/paintings/2022-04-11 (2).png",
+      "images/paintings/2022-04-11.png",
+    ],
+    features: ["React", "Styled Components", "API", "Search"],
+    url: "https://paintings-gallery.vercel.app/",
+    github: "https://github.com/JohnKucharsky/paintings-gallery",
+    color: true,
+  },
+  {
+    id: 8,
+    title: "Exceed",
+    img: [
+      "images/exceed/2022-04-11 (4).png",
+
+      "images/exceed/2022-04-11 (3).png",
+    ],
+    features: ["React", "Styled Components", "Mobile Responsive"],
+    url: "https://exceed-theta.vercel.app/",
+    github: "https://github.com/JohnKucharsky/exceed",
+    color: false,
+  },
 
   {
     id: 9,
@@ -174,30 +200,18 @@ export const data = [
     github: "https://github.com/JohnKucharsky/spoonacular-typescript",
     color: false,
   },
-  {
-    id: 21,
-    title: "Paintings Gallery",
-    img: [
-      "images/paintings/2022-04-11 (1).png",
-      "images/paintings/2022-04-11 (2).png",
-      "images/paintings/2022-04-11.png",
-    ],
-    features: ["React", "Styled Components", "API", "Search"],
-    url: "https://paintings-gallery.vercel.app/",
-    github: "https://github.com/JohnKucharsky/paintings-gallery",
-    color: true,
-  },
-  {
-    id: 22,
-    title: "Exceed",
-    img: [
-      "images/exceed/2022-04-11 (4).png",
 
-      "images/exceed/2022-04-11 (3).png",
+  {
+    id: 23,
+    title: "Shopping Cart",
+    img: [
+      "images/shopping-cart-sass/2022-04-19 (1).png",
+      "images/shopping-cart-sass/2022-04-19 (2).png",
+      "images/shopping-cart-sass/2022-04-19 (4).png",
     ],
-    features: ["React", "Styled Components", "Mobile Responsive"],
-    url: "https://exceed-theta.vercel.app/",
-    github: "https://github.com/JohnKucharsky/exceed",
+    features: ["React", "SASS", "Mobile Responsive"],
+    url: "https://adidas-eight.vercel.app/",
+    github: "https://github.com/JohnKucharsky/adidas",
     color: false,
   },
 ];
