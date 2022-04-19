@@ -214,4 +214,20 @@ export const data = [
     github: "https://github.com/JohnKucharsky/adidas",
     color: false,
   },
+  {
+    id: 24,
+    title: "Госуслуги",
+    img: [
+      "images/shopping-cart-sass/2022-04-19 (5).png",
+      "images/shopping-cart-sass/2022-04-19 (6).png",
+      "images/shopping-cart-sass/2022-04-19 (7).png",
+      "images/shopping-cart-sass/2022-04-19 (8).png",
+      "images/shopping-cart-sass/2022-04-19 (9).png",
+      "images/shopping-cart-sass/2022-04-19 (10).png",
+    ],
+    features: ["React", "SASS", "Mobile Responsive"],
+    url: "https://gosuslugi-two.vercel.app/",
+    github: "https://github.com/JohnKucharsky/gosuslugi",
+    color: false,
+  },
 ];
