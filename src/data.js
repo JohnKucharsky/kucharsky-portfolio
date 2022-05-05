@@ -10,8 +10,17 @@ export const data = [
   },
 
   {
-    id: 5,
+    id: 4,
     title: "Modal",
+    img: ["images/modal-travel/2022-05-05 (2).png"],
+    features: ["React", "SASS", "Material UI"],
+    url: "https://modal-brnl.vercel.app/",
+    github: "https://github.com/JohnKucharsky/modal-brnl",
+    color: false,
+  },
+  {
+    id: 5,
+    title: "Modal S",
     img: ["images/modal-lawyer/2022-03-22 (31).png"],
     features: ["React", "CSS", "Hooks"],
     url: "https://modal-input.vercel.app/",
@@ -43,16 +52,12 @@ export const data = [
   },
   {
     id: 8,
-    title: "Exceed",
-    img: [
-      "images/exceed/2022-04-11 (4).png",
-
-      "images/exceed/2022-04-11 (3).png",
-    ],
-    features: ["React", "Styled Components", "Mobile Responsive"],
-    url: "https://exceed-theta.vercel.app/",
-    github: "https://github.com/JohnKucharsky/exceed",
-    color: false,
+    title: "Table random",
+    img: ["images/table/2022-05-05.png"],
+    features: ["React", "Styled Components", "API", "Search"],
+    url: "https://table-psi.vercel.app/",
+    github: "https://github.com/JohnKucharsky/table",
+    color: true,
   },
 
   {
@@ -155,9 +160,9 @@ export const data = [
     id: 17,
     title: "Quiz Game",
     img: ["images/quiz-game/2022-04-11 (11).png"],
-    features: ["React", "Typescript", "Styled Components", "Api"],
-    url: "https://quiz-game-typescript.vercel.app/",
-    github: "https://github.com/JohnKucharsky/quiz-game-typescript",
+    features: ["React", "Typescript", "SASS", "Api"],
+    url: "https://quiz-game-ts-sass.vercel.app/",
+    github: "https://github.com/JohnKucharsky/quiz-game-ts-sass",
     color: true,
   },
   {
