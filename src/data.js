@@ -159,7 +159,7 @@ export const data = [
   {
     id: 17,
     title: "Quiz Game",
-    img: ["images/quiz-game/2022-04-11 (11).png"],
+    img: ["images/quiz-game/2022-05-05 (1).png"],
     features: ["React", "Typescript", "SASS", "Api"],
     url: "https://quiz-game-ts-sass.vercel.app/",
     github: "https://github.com/JohnKucharsky/quiz-game-ts-sass",
