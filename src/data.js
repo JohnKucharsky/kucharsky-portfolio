@@ -53,11 +53,15 @@ export const data = [
   },
   {
     id: 8,
-    title: "Table random",
-    img: ["images/table/2022-05-05.png"],
-    features: ["React", "Styled Components", "API", "Search"],
-    url: "https://table-psi.vercel.app/",
-    github: "https://github.com/JohnKucharsky/table",
+    title: "Gatsby Blog",
+    img: [
+      "images/web-warrior/2022-03-22 (18).png",
+      "images/web-warrior/2022-03-22 (19).png",
+      "images/web-warrior/2022-03-22 (20).png",
+    ],
+    features: ["Gatsby", "GraphQL"],
+    url: "https://wizardly-hermann-0d2e3d.netlify.app/",
+    github: "https://github.com/JohnKucharsky/gatsby-starter-hello-world",
     color: true,
   },
 
@@ -129,20 +133,16 @@ export const data = [
     github: "https://github.com/JohnKucharsky/Bootstrap5-02",
     color: false,
   },
-
   {
     id: 16,
-    title: "Gatsby Blog",
-    img: [
-      "images/web-warrior/2022-03-22 (18).png",
-      "images/web-warrior/2022-03-22 (19).png",
-      "images/web-warrior/2022-03-22 (20).png",
-    ],
-    features: ["Gatsby", "GraphQL"],
-    url: "https://wizardly-hermann-0d2e3d.netlify.app/",
-    github: "https://github.com/JohnKucharsky/gatsby-starter-hello-world",
+    title: "Table random",
+    img: ["images/table/2022-05-05.png"],
+    features: ["React", "Styled Components", "API", "Search"],
+    url: "https://table-psi.vercel.app/",
+    github: "https://github.com/JohnKucharsky/table",
     color: true,
   },
+
   {
     id: 17,
     title: "Quiz Game",
