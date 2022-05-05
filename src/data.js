@@ -52,19 +52,6 @@ export const data = [
     color: false,
   },
   {
-    id: 7,
-    title: "Paintings Gallery",
-    img: [
-      "images/paintings/2022-04-11 (1).png",
-      "images/paintings/2022-04-11 (2).png",
-      "images/paintings/2022-04-11.png",
-    ],
-    features: ["React", "Styled Components", "API", "Search"],
-    url: "https://paintings-gallery.vercel.app/",
-    github: "https://github.com/JohnKucharsky/paintings-gallery",
-    color: true,
-  },
-  {
     id: 8,
     title: "Table random",
     img: ["images/table/2022-05-05.png"],
