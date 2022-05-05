@@ -140,7 +140,7 @@ export const data = [
     features: ["React", "Styled Components", "API", "Search"],
     url: "https://table-psi.vercel.app/",
     github: "https://github.com/JohnKucharsky/table",
-    color: true,
+    color: false,
   },
 
   {
@@ -150,7 +150,7 @@ export const data = [
     features: ["React", "Typescript", "SASS", "Api"],
     url: "https://quiz-game-ts-sass.vercel.app/",
     github: "https://github.com/JohnKucharsky/quiz-game-ts-sass",
-    color: true,
+    color: false,
   },
   {
     id: 18,
