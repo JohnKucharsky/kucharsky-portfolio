@@ -1,6 +1,15 @@
 export const data = [
   {
     id: 1,
+    title: "Breaking Bad",
+    img: ["images/traversy-bb/2022-03-22 (6).png"],
+    features: ["React", "API", "Search"],
+    url: "https://traversy-bb.vercel.app/",
+    github: "https://github.com/JohnKucharsky/traversy-bb",
+    color: true,
+  },
+  {
+    id: 2,
     title: "CSS Grid",
     img: ["images/grid/2022-04-11 (6).png"],
     features: ["HTML", "CSS", "Grid"],
@@ -10,12 +19,17 @@ export const data = [
   },
 
   {
-    id: 4,
-    title: "Modal",
-    img: ["images/modal-travel/2022-05-05 (2).png"],
-    features: ["React", "SASS", "Material UI"],
-    url: "https://modal-brnl.vercel.app/",
-    github: "https://github.com/JohnKucharsky/modal-brnl",
+    id: 3,
+    title: "Router V6",
+    img: [
+      "images/ninja-router/2022-03-22 (8).png",
+      "images/ninja-router/2022-03-22 (9).png",
+      "images/ninja-router/2022-03-22 (10).png",
+      "images/ninja-router/2022-03-22 (11).png",
+    ],
+    features: ["React", "RouterV6"],
+    url: "https://reactrouterv6.vercel.app/",
+    github: "https://github.com/JohnKucharsky/reactrouterv6",
     color: false,
   },
   {
@@ -62,16 +76,11 @@ export const data = [
 
   {
     id: 9,
-    title: "Router V6",
-    img: [
-      "images/ninja-router/2022-03-22 (8).png",
-      "images/ninja-router/2022-03-22 (9).png",
-      "images/ninja-router/2022-03-22 (10).png",
-      "images/ninja-router/2022-03-22 (11).png",
-    ],
-    features: ["React", "RouterV6"],
-    url: "https://reactrouterv6.vercel.app/",
-    github: "https://github.com/JohnKucharsky/reactrouterv6",
+    title: "Modal",
+    img: ["images/modal-travel/2022-05-05 (2).png"],
+    features: ["React", "SASS", "Material UI"],
+    url: "https://modal-brnl.vercel.app/",
+    github: "https://github.com/JohnKucharsky/modal-brnl",
     color: false,
   },
   {
@@ -91,15 +100,6 @@ export const data = [
     url: "https://todoapp-typescript-amber.vercel.app/",
     github: "https://github.com/JohnKucharsky/todoapp-typescript",
     color: false,
-  },
-  {
-    id: 12,
-    title: "Breaking Bad",
-    img: ["images/traversy-bb/2022-03-22 (6).png"],
-    features: ["React", "API", "Search"],
-    url: "https://traversy-bb.vercel.app/",
-    github: "https://github.com/JohnKucharsky/traversy-bb",
-    color: true,
   },
 
   {
